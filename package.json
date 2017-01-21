@@ -1,35 +1,38 @@
 {
-    "name": "tns-i18n",
-    "version": "0.0.1",
-    "description": "Nativescript internationalization module",
-    "main": "index.js",
-    "scripts": {
-        "test": "echo \"Error: no test specified\" && exit 1"
-    },
-    "nativescript": {
-        "platforms": {
-            "ios": "1.0.0",
-            "android": "1.1.0"
-        }
-    },
-    "repository": {
-        "type": "git",
-        "url": "git+https://github.com/burawi/tns-i18n.git"
-    },
-    "keywords": [
-        "tns",
-        "nativescript",
-        "{N}",
-        "multilanguage",
-        "polyglot",
-        "internationalization",
-        "i18n",
-        "mobile"
-    ],
-    "author": "Abu Rawi",
-    "license": "ISC",
-    "bugs": {
-        "url": "https://github.com/burawi/tns-i18n/issues"
-    },
-    "homepage": "https://github.com/burawi/tns-i18n#readme"
+  "name": "tns-i18n",
+  "version": "0.0.1",
+  "description": "Nativescript internationalization module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "nativescript": {
+    "platforms": {
+      "ios": "1.0.0",
+      "android": "1.1.0"
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/burawi/tns-i18n.git"
+  },
+  "keywords": [
+    "tns",
+    "nativescript",
+    "{N}",
+    "multilanguage",
+    "polyglot",
+    "internationalization",
+    "i18n",
+    "mobile"
+  ],
+  "author": "Abu Rawi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/burawi/tns-i18n/issues"
+  },
+  "homepage": "https://github.com/burawi/tns-i18n#readme",
+  "dependencies": {
+    "str-render": "0.0.2"
+  }
 }
