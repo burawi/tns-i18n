@@ -1,3 +1,4 @@
+# tns-i18n
 This is a Nativescript plugin that implements i18n easily.
 
 It adds `_L` function to global variable and XML files so you can use it anywhere in the app.
@@ -21,7 +22,7 @@ Import the module in **app.js** before anything else:
 
 ```javascript
 require('globals');
-require('~/local_modules/tns-i18n')('en'); // 'en' is the default language
+require('tns-i18n')('en'); // 'en' is the default language
 var application = require("application");
 
 application.start({ moduleName: "./home" });
