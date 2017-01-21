@@ -21,7 +21,6 @@ Import the module in **app.js** before anything else:
 > You have to mention the default language code
 
 ```javascript
-require('globals');
 require('tns-i18n')('en'); // We set 'en' as default language
 var application = require("application");
 

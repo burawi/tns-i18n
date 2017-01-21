@@ -32,7 +32,5 @@
     "url": "https://github.com/burawi/tns-i18n/issues"
   },
   "homepage": "https://github.com/burawi/tns-i18n#readme",
-  "dependencies": {
-    "str-render": "0.0.2"
-  }
+  "dependencies": {}
 }
