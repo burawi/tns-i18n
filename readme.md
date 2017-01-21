@@ -22,7 +22,7 @@ Import the module in **app.js** before anything else:
 
 ```javascript
 require('globals');
-require('tns-i18n')('en'); // 'en' is the default language
+require('tns-i18n')('en'); // We set 'en' as default language
 var application = require("application");
 
 application.start({ moduleName: "./home" });
