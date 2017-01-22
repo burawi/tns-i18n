@@ -7,6 +7,9 @@ It is inspired by [nativescript-i18n](https://www.npmjs.com/package/nativescript
 
 The module detects the preferred user language and displays text in this language if it is handled by the app, if not, it will load the text in the default language you chose.
 
+## Prefer Videos ?
+**Here is a short *[video tutorial](https://www.youtube.com/watch?v=u4gtn2j58dc)* on this plugin.**
+
 # Installation
 ```
 tns plugin add tns-i18n
