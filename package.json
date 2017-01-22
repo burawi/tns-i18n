@@ -1,6 +1,6 @@
 {
   "name": "tns-i18n",
-  "version": "0.0.5",
+  "version": "0.0.6",
   "description": "Nativescript internationalization module",
   "main": "index.js",
   "scripts": {
